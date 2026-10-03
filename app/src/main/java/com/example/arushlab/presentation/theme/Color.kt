@@ -1,4 +1,4 @@
-package com.example.arushlab.ui.theme
+package com.example.arushlab.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
